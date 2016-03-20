@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Beyaz Bot V1
-// @namespace    Insane :D
+// @namespace    Beyaz :D
 // @version      4.0
 // @description  Best On Spectate
-// @author       Break
+// @author       Beyaz
 // @license      MIT
 // @match        http://agar.io/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.4/socket.io.min.js
-// @require      http://pastebin.com/raw/5JK2d2hM
-// @require      http://pastebin.com/raw/MPybEjez
+// @require      http://pastebin.com/raw/jjjyWH1s
+// @require      http://pastebin.com/raw/M1thJpkf
 // @require      http://pastebin.com/raw/QrMULMQV
 // @grant        none
 // @run-at       document-start
